@@ -12,7 +12,7 @@ Hi, I'm Mohammad Ishfaqul Islam.<br><br>I’m a Computer Science student passion
 ![](https://nirzak-streak-stats.vercel.app/?user=ishfaqulislam7&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishfaqulislam7&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Inspiring:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
